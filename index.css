@@ -1,0 +1,75 @@
+body
+{
+	margin:0px;
+}
+
+header,footer
+{
+	background:linear-gradient(45deg,orange,limegreen,blue);
+	padding:20px;
+}
+header h1
+{
+	margin:0px;
+	font-size:40px;
+	color:white;
+	text-align:right;
+}
+/*Navbar Styles*/
+nav
+{
+	background:linear-gradient(45deg,blue,green,orange);
+	padding:10px;
+}
+nav a
+{
+	color:white;
+	text-decoration:none;
+	font-size:24px;
+	margin:20px 40px;
+}
+.fa
+{
+	padding-right:6px;
+}
+
+/*section*/
+section
+{
+	background: linear-gradient(45deg,coral,blue,red);
+	color:white;
+}
+section  article  h2
+{
+	margin:0px;
+}
+section article
+{
+	padding:20px;
+	background:linear-gradient(45deg,skyblue,deeppink,lime);
+	margin-left: 100px;
+	border-radius:20px;
+	width: 300px;
+	display: inline-block;
+}
+section article p
+{
+	padding:5px;
+}
+section div 
+{
+	padding: 20px;
+    background:linear-gradient(45deg,yellow,deeppink,lime);
+    width: 70%;
+    border-radius: 20px;
+    margin: auto;
+}
+ section div h1
+{
+	text-align: center;
+}
+table
+{
+	margin: auto;
+}
+
